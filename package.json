@@ -1,11 +1,24 @@
 {
-  "name": "chat_app",
+  "name": "y",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJmistMAGO/chat_app_AW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DJmistMAGO/chat_app_AW/issues"
+  },
+  "homepage": "https://github.com/DJmistMAGO/chat_app_AW#readme",
+  "description": "",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
 }
